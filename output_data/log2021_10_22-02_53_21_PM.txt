@@ -1,0 +1,627 @@
+1. City ID: 4035715 - City Name: Avarua is being processed
+2. City ID: 2013375 - City Name: Vitim is being processed
+3. City ID: 3369174 - City Name: Calvinia is being processed
+4. City ID: 1714733 - City Name: Dingle is being processed
+5. City ID: 3466704 - City Name: Castro is being processed
+6. City ID: 5367788 - City Name: Lompoc is being processed
+7. City ID: 2163355 - City Name: Hobart is being processed
+8. City ID: 4030556 - City Name: Rikitea is being processed
+9. City ID: 2017155 - City Name: Saskylakh is being processed
+10. City ID: 6185377 - City Name: Yellowknife is being processed
+11. City ID: 3369157 - City Name: Cape Town is being processed
+12. City ID: 6201424 - City Name: Mataura is being processed
+13. City ID: 3418910 - City Name: Upernavik is being processed
+14. City ID: 2036075 - City Name: Lingyuan is being processed
+15. City ID: 3438102 - City Name: Fuerte Olimpo is being processed
+16. City ID: 2075265 - City Name: Busselton is being processed
+17. City ID: 2274895 - City Name: Monrovia is being processed
+18. City ID: 5870133 - City Name: Nome is being processed
+19. City ID: 4032243 - City Name: Vaini is being processed
+20. City ID: 5478673 - City Name: Meadow Lake is being processed
+21. City ID: 1515029 - City Name: Ulaangom is being processed
+22. City ID: 292968 - City Name: Abu Dhabi is being processed
+23. City ID: 3027301 - City Name: Chamonix is being processed
+24. City ID: 5122534 - City Name: Jamestown is being processed
+25. City ID: 1525014 - City Name: Būlaevo is being processed
+26. City ID: 1539210 - City Name: Purpe is being processed
+27. City ID: 4560349 - City Name: Philadelphia is being processed
+28. City ID: 2206939 - City Name: Bluff is being processed
+29. City ID: 2457161 - City Name: Gao is being processed
+30. City ID: 214974 - City Name: Kalemie is being processed
+31. City ID: 1735106 - City Name: George Town is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=illoqqortoormiut&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+32. City ID: 1529102 - City Name: Ürümqi is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=doctor%20pedro%20p.%20pena&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+33. City ID: 1785294 - City Name: Anyang is being processed
+34. City ID: 5848280 - City Name: Kapaa is being processed
+35. City ID: 6319315 - City Name: Fonte Boa is being processed
+36. City ID: 2012593 - City Name: Zeya is being processed
+37. City ID: 2361177 - City Name: Djibo is being processed
+38. City ID: 3424607 - City Name: Tasiilaq is being processed
+39. City ID: 2162683 - City Name: Innisfail is being processed
+40. City ID: 300791 - City Name: Simav is being processed
+41. City ID: 4034551 - City Name: Faanui is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=taolanaro&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+42. City ID: 2264557 - City Name: Ponta do Sol is being processed
+43. City ID: 2015306 - City Name: Tiksi is being processed
+44. City ID: 3652764 - City Name: Puerto Ayora is being processed
+45. City ID: 3471451 - City Name: Arraial do Cabo is being processed
+46. City ID: 2074865 - City Name: Carnarvon is being processed
+47. City ID: 1855540 - City Name: Naze is being processed
+48. City ID: 6111696 - City Name: Port-Cartier is being processed
+49. City ID: 1485997 - City Name: Yeniseysk is being processed
+50. City ID: 4020109 - City Name: Atuona is being processed
+51. City ID: 1015776 - City Name: Bredasdorp is being processed
+52. City ID: 5880054 - City Name: Barrow is being processed
+53. City ID: 2110227 - City Name: Butaritari is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=amderma&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=yanan&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+54. City ID: 1259385 - City Name: Port Blair is being processed
+55. City ID: 104515 - City Name: Makkah al Mukarramah is being processed
+56. City ID: 546105 - City Name: Nikolskoye is being processed
+57. City ID: 4033077 - City Name: Vaitape is being processed
+58. City ID: 2125693 - City Name: Evensk is being processed
+59. City ID: 1519422 - City Name: Semey is being processed
+60. City ID: 1261369 - City Name: Nīmbāhera is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=phan%20rang&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+61. City ID: 475619 - City Name: Verkhnechusovskiye Gorodki is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=nizhneyansk&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+62. City ID: 1738050 - City Name: Marabu is being processed
+63. City ID: 515267 - City Name: Omutninsk is being processed
+64. City ID: 1795632 - City Name: Shenjiamen is being processed
+65. City ID: 478050 - City Name: Ust'-Kulom is being processed
+66. City ID: 286621 - City Name: Salalah is being processed
+67. City ID: 3874787 - City Name: Punta Arenas is being processed
+68. City ID: 6096551 - City Name: Pangnirtung is being processed
+69. City ID: 5924351 - City Name: Clyde River is being processed
+70. City ID: 2338660 - City Name: Yaan is being processed
+71. City ID: 5106841 - City Name: Albany is being processed
+72. City ID: 3664078 - City Name: Humaitá is being processed
+73. City ID: 3833883 - City Name: Trelew is being processed
+74. City ID: 6137462 - City Name: Saint-Augustin is being processed
+75. City ID: 3831208 - City Name: Qaanaaq is being processed
+76. City ID: 2038529 - City Name: Baishishan is being processed
+77. City ID: 5563839 - City Name: Fortuna is being processed
+78. City ID: 3843123 - City Name: Neuquén is being processed
+79. City ID: 3032556 - City Name: Biscarrosse is being processed
+80. City ID: 1244926 - City Name: Hambantota is being processed
+81. City ID: 1218420 - City Name: Seydi is being processed
+82. City ID: 4969398 - City Name: Lewiston is being processed
+83. City ID: 4036284 - City Name: Alofi is being processed
+84. City ID: 145531 - City Name: Saurimo is being processed
+85. City ID: 3470137 - City Name: Belmonte is being processed
+86. City ID: 934322 - City Name: Mahébourg is being processed
+87. City ID: 6453316 - City Name: Tromsø is being processed
+88. City ID: 5554072 - City Name: Juneau is being processed
+89. City ID: 1701054 - City Name: Marawi is being processed
+90. City ID: 3924610 - City Name: Achacachi is being processed
+91. City ID: 6089245 - City Name: Norman Wells is being processed
+92. City ID: 3422683 - City Name: Kangaatsiaq is being processed
+93. City ID: 2122090 - City Name: Pevek is being processed
+94. City ID: 6620339 - City Name: Karratha is being processed
+95. City ID: 213940 - City Name: Kasongo is being processed
+96. City ID: 3663475 - City Name: Maraã is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=mys%20shmidta&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+97. City ID: 1651810 - City Name: Airai is being processed
+98. City ID: 2127202 - City Name: Anadyr is being processed
+99. City ID: 686090 - City Name: Asău is being processed
+100. City ID: 964420 - City Name: Port Elizabeth is being processed
+101. City ID: 2137773 - City Name: Vao is being processed
+102. City ID: 1062553 - City Name: Mahanoro is being processed
+103. City ID: 5861897 - City Name: Fairbanks is being processed
+104. City ID: 3474574 - City Name: Palmas is being processed
+105. City ID: 2180815 - City Name: Tuatapere is being processed
+106. City ID: 4021858 - City Name: Guerrero Negro is being processed
+107. City ID: 2641598 - City Name: Newport is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=attawapiskat&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+108. City ID: 469960 - City Name: Vytegra is being processed
+109. City ID: 3385883 - City Name: Uauá is being processed
+110. City ID: 1688696 - City Name: San Policarpo is being processed
+111. City ID: 935215 - City Name: Saint-Philippe is being processed
+112. City ID: 1819729 - City Name: Hong Kong is being processed
+113. City ID: 3839307 - City Name: Rawson is being processed
+114. City ID: 2158767 - City Name: Mareeba is being processed
+115. City ID: 3420846 - City Name: Qaqortoq is being processed
+116. City ID: 1489401 - City Name: Toora-Khem is being processed
+117. City ID: 3466165 - City Name: Cidreira is being processed
+118. City ID: 352733 - City Name: Marsá Maţrūḩ is being processed
+119. City ID: 2738381 - City Name: Lata is being processed
+120. City ID: 6165406 - City Name: Thompson is being processed
+121. City ID: 3387204 - City Name: Soure is being processed
+122. City ID: 5866583 - City Name: Saint Paul Harbor is being processed
+123. City ID: 2194098 - City Name: Ahipara is being processed
+124. City ID: 2018735 - City Name: Nyurba is being processed
+125. City ID: 2126123 - City Name: Chokurdakh is being processed
+126. City ID: 4676740 - City Name: Brownsville is being processed
+127. City ID: 543246 - City Name: Kozhva is being processed
+128. City ID: 1282256 - City Name: Hithadhoo is being processed
+129. City ID: 3430545 - City Name: Morón is being processed
+130. City ID: 3837056 - City Name: San Luis is being processed
+131. City ID: 228418 - City Name: Nakasongola is being processed
+HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?q=adaufe&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:852)'),))
+HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?q=karaul&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:852)'),))
+132. City ID: 2303611 - City Name: Esim is being processed
+133. City ID: 7647007 - City Name: Bariloche is being processed
+134. City ID: 338832 - City Name: Dire Dawa is being processed
+135. City ID: 3833367 - City Name: Ushuaia is being processed
+136. City ID: 3414079 - City Name: Olafsvik is being processed
+137. City ID: 1816440 - City Name: Huaiyuan is being processed
+138. City ID: 4033375 - City Name: Tevaitoa is being processed
+139. City ID: 3366880 - City Name: Hermanus is being processed
+140. City ID: 3628473 - City Name: San Cristobal is being processed
+141. City ID: 3665199 - City Name: Ariquemes is being processed
+142. City ID: 2181625 - City Name: Te Anau is being processed
+143. City ID: 3443061 - City Name: Chui is being processed
+144. City ID: 1058381 - City Name: Morondava is being processed
+145. City ID: 3696378 - City Name: Huaraz is being processed
+146. City ID: 1106677 - City Name: Bambous Virieux is being processed
+147. City ID: 5855927 - City Name: Hilo is being processed
+148. City ID: 6063191 - City Name: Mackenzie is being processed
+149. City ID: 2208248 - City Name: Kaitangata is being processed
+150. City ID: 1637001 - City Name: Biak is being processed
+151. City ID: 2522437 - City Name: Adeje is being processed
+152. City ID: 2173911 - City Name: Broken Hill is being processed
+153. City ID: 2171465 - City Name: Clarence Town is being processed
+154. City ID: 3430863 - City Name: Mar del Plata is being processed
+155. City ID: 1272140 - City Name: Dwārka is being processed
+156. City ID: 3835869 - City Name: Santiago del Estero is being processed
+157. City ID: 2132606 - City Name: Samarai is being processed
+158. City ID: 3401148 - City Name: Cururupu is being processed
+159. City ID: 3175860 - City Name: Gravina in Puglia is being processed
+160. City ID: 2070998 - City Name: Geraldton is being processed
+161. City ID: 2071860 - City Name: Esperance is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=gulshat&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+162. City ID: 3351663 - City Name: Benguela is being processed
+163. City ID: 1517323 - City Name: Zhanakorgan is being processed
+164. City ID: 6170031 - City Name: Tuktoyaktuk is being processed
+165. City ID: 3461592 - City Name: Ibipeba is being processed
+166. City ID: 3883457 - City Name: Lebu is being processed
+167. City ID: 3372707 - City Name: Ribeira Grande is being processed
+168. City ID: 3445026 - City Name: Vila Velha is being processed
+169. City ID: 1529651 - City Name: Altay is being processed
+170. City ID: 1529376 - City Name: Korla is being processed
+171. City ID: 3453060 - City Name: Pontes e Lacerda is being processed
+172. City ID: 1006984 - City Name: East London is being processed
+173. City ID: 2084442 - City Name: Vanimo is being processed
+174. City ID: 2178753 - City Name: Kirakira is being processed
+175. City ID: 1806840 - City Name: Huilong is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=maykain&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=crab%20hill&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+176. City ID: 3985710 - City Name: Cabo San Lucas is being processed
+177. City ID: 6153766 - City Name: Spirit River is being processed
+178. City ID: 1494482 - City Name: Polunochnoye is being processed
+179. City ID: 2036619 - City Name: Hushitai is being processed
+180. City ID: 3466980 - City Name: Caravelas is being processed
+181. City ID: 2035601 - City Name: Mergen is being processed
+182. City ID: 964432 - City Name: Port Alfred is being processed
+183. City ID: 3129371 - City Name: Arroyo de la Encomienda is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=vestbygda&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+184. City ID: 477940 - City Name: Ust-Tsilma is being processed
+185. City ID: 2126710 - City Name: Beringovskiy is being processed
+186. City ID: 3372964 - City Name: Lagoa is being processed
+187. City ID: 1106643 - City Name: Quatre Cocos is being processed
+188. City ID: 5972291 - City Name: Havre-St-Pierre is being processed
+189. City ID: 72181 - City Name: Marzuq is being processed
+190. City ID: 57000 - City Name: Hobyo is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=belushya%20guba&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+191. City ID: 2123814 - City Name: Leningradskiy is being processed
+192. City ID: 608324 - City Name: Shetpe is being processed
+193. City ID: 3421765 - City Name: Nanortalik is being processed
+194. City ID: 2014624 - City Name: Udachny is being processed
+195. City ID: 3580733 - City Name: Bodden Town is being processed
+196. City ID: 2315057 - City Name: Kasangulu is being processed
+197. City ID: 2022572 - City Name: Khatanga is being processed
+198. City ID: 3838859 - City Name: Río Gallegos is being processed
+199. City ID: 5983720 - City Name: Iqaluit is being processed
+200. City ID: 3457381 - City Name: Mauá is being processed
+201. City ID: 2094342 - City Name: Kavieng is being processed
+202. City ID: 2521883 - City Name: Almeria is being processed
+203. City ID: 3423146 - City Name: Ilulissat is being processed
+204. City ID: 2123100 - City Name: Myaundzha is being processed
+205. City ID: 2396518 - City Name: Port-Gentil is being processed
+206. City ID: 1498087 - City Name: Nadym is being processed
+207. City ID: 583811 - City Name: Akhtanizovskaya is being processed
+208. City ID: 4015520 - City Name: Capula is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=grand%20river%20south%20east&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+209. City ID: 5713587 - City Name: Bend is being processed
+210. City ID: 894701 - City Name: Bulawayo is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=sinkat&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+211. City ID: 2126199 - City Name: Cherskiy is being processed
+212. City ID: 3448903 - City Name: São João da Barra is being processed
+213. City ID: 2191562 - City Name: Dunedin is being processed
+214. City ID: 3687238 - City Name: Cartagena is being processed
+215. City ID: 533964 - City Name: Loukhi is being processed
+216. City ID: 6050194 - City Name: La Sarre is being processed
+217. City ID: 5859699 - City Name: College is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=tsihombe&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+218. City ID: 2134814 - City Name: Sola is being processed
+219. City ID: 3354071 - City Name: Oranjemund is being processed
+220. City ID: 1521230 - City Name: Makīnsk is being processed
+221. City ID: 3981432 - City Name: Todos Santos is being processed
+222. City ID: 4006806 - City Name: Empalme is being processed
+223. City ID: 4946620 - City Name: Palmer is being processed
+224. City ID: 1071296 - City Name: Antalaha is being processed
+225. City ID: 2034754 - City Name: Shunyi is being processed
+226. City ID: 2963848 - City Name: Greystones is being processed
+227. City ID: 2270258 - City Name: Caniço is being processed
+228. City ID: 2015913 - City Name: Suntar is being processed
+229. City ID: 1056899 - City Name: Sambava is being processed
+230. City ID: 2318123 - City Name: Yenagoa is being processed
+231. City ID: 1850523 - City Name: Tateyama is being processed
+232. City ID: 2122293 - City Name: Ozernovskiy is being processed
+233. City ID: 2344245 - City Name: Dutse is being processed
+234. City ID: 4031574 - City Name: Provideniya is being processed
+235. City ID: 158321 - City Name: Karema is being processed
+236. City ID: 3691954 - City Name: Sechura is being processed
+237. City ID: 6144312 - City Name: Sept-Îles is being processed
+238. City ID: 1489597 - City Name: Timiryazevskiy is being processed
+239. City ID: 3412093 - City Name: Vestmannaeyjar is being processed
+240. City ID: 3452712 - City Name: Porto Murtinho is being processed
+241. City ID: 2092164 - City Name: Lorengau is being processed
+242. City ID: 2057087 - City Name: Kupang is being processed
+243. City ID: 6255012 - City Name: Flinders is being processed
+244. City ID: 1277232 - City Name: Bānsi is being processed
+245. City ID: 215976 - City Name: Ilebo is being processed
+246. City ID: 3932145 - City Name: Pisco is being processed
+247. City ID: 3388847 - City Name: São Félix do Xingu is being processed
+248. City ID: 3533462 - City Name: Acapulco de Juárez is being processed
+249. City ID: 563990 - City Name: Dvinskoy is being processed
+250. City ID: 5785965 - City Name: Auburn is being processed
+251. City ID: 359792 - City Name: Aswān is being processed
+252. City ID: 2033766 - City Name: Xingcheng is being processed
+253. City ID: 1812521 - City Name: Donghai is being processed
+254. City ID: 2172880 - City Name: Byron Bay is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=sentyabrskiy&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+255. City ID: 3893629 - City Name: Coquimbo is being processed
+256. City ID: 3662489 - City Name: Santa Isabel Rio Negro is being processed
+257. City ID: 1020098 - City Name: Benoni is being processed
+258. City ID: 1852357 - City Name: Shimoda is being processed
+259. City ID: 2656391 - City Name: Bankfoot is being processed
+260. City ID: 3893726 - City Name: Constitución is being processed
+261. City ID: 1040938 - City Name: Manjacaze is being processed
+262. City ID: 2152659 - City Name: Port Macquarie is being processed
+263. City ID: 2012530 - City Name: Zhigansk is being processed
+264. City ID: 1513491 - City Name: Yangi Marg`ilon is being processed
+265. City ID: 2729907 - City Name: Longyearbyen is being processed
+266. City ID: 1511329 - City Name: Asbestovskiy is being processed
+267. City ID: 4328010 - City Name: Houma is being processed
+268. City ID: 3695844 - City Name: Lagunas is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=saleaula&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+269. City ID: 4989133 - City Name: Charter Township of Clinton is being processed
+270. City ID: 1586350 - City Name: Cam Ranh is being processed
+271. City ID: 3897774 - City Name: Buin is being processed
+272. City ID: 4588165 - City Name: Mt. Pleasant is being processed
+273. City ID: 1634614 - City Name: Nabire is being processed
+274. City ID: 2155415 - City Name: New Norfolk is being processed
+275. City ID: 3421719 - City Name: Narsaq is being processed
+276. City ID: 934479 - City Name: Grand Gaube is being processed
+277. City ID: 2381972 - City Name: Adrar is being processed
+278. City ID: 905382 - City Name: Mufumbwe is being processed
+279. City ID: 3356832 - City Name: Henties Bay is being processed
+280. City ID: 779330 - City Name: Kautokeino is being processed
+281. City ID: 5919815 - City Name: Channel-Port aux Basques is being processed
+282. City ID: 5530921 - City Name: Snyder is being processed
+283. City ID: 2171845 - City Name: Cessnock is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=moji-mirim&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+284. City ID: 3146487 - City Name: Raudeberg is being processed
+285. City ID: 3419842 - City Name: Sisimiut is being processed
+286. City ID: 2649957 - City Name: Epsom is being processed
+287. City ID: 5969025 - City Name: Haines Junction is being processed
+288. City ID: 2120591 - City Name: Tilichiki is being processed
+289. City ID: 1079048 - City Name: Ambovombe is being processed
+290. City ID: 3598787 - City Name: Champerico is being processed
+291. City ID: 3355672 - City Name: Lüderitz is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=palabuhanratu&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+292. City ID: 2121385 - City Name: Severo-Kuril'sk is being processed
+293. City ID: 1862555 - City Name: Hirado is being processed
+294. City ID: 2136825 - City Name: Isangel is being processed
+295. City ID: 2112309 - City Name: Katsuura is being processed
+296. City ID: 933995 - City Name: Souillac is being processed
+297. City ID: 3358670 - City Name: Arandis is being processed
+298. City ID: 2138285 - City Name: Tadine is being processed
+299. City ID: 5404554 - City Name: Union City is being processed
+300. City ID: 1269578 - City Name: Jagdalpur is being processed
+301. City ID: 2136697 - City Name: Lakatoro is being processed
+302. City ID: 3430443 - City Name: Necochea is being processed
+303. City ID: 5364271 - City Name: Laguna is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=dzhusaly&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+304. City ID: 5282297 - City Name: Bethel is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=deshna&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+305. City ID: 1491230 - City Name: Sovetskiy is being processed
+306. City ID: 2290486 - City Name: Daloa is being processed
+307. City ID: 2063056 - City Name: Port Augusta is being processed
+308. City ID: 1885823 - City Name: Jiangyou is being processed
+309. City ID: 1129516 - City Name: Qarqīn is being processed
+310. City ID: 3347719 - City Name: Luena is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=tumannyy&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+311. City ID: 6301965 - City Name: Howard Springs is being processed
+312. City ID: 1651461 - City Name: Amuntai is being processed
+313. City ID: 286245 - City Name: Sur is being processed
+314. City ID: 3577154 - City Name: Oranjestad is being processed
+315. City ID: 580716 - City Name: Arzgir is being processed
+316. City ID: 1489656 - City Name: Teya is being processed
+317. City ID: 3703443 - City Name: Panama City is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=sumbawa&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=rabnita&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+318. City ID: 2537881 - City Name: Safi is being processed
+319. City ID: 5882953 - City Name: Aklavik is being processed
+320. City ID: 4597919 - City Name: Summerville is being processed
+321. City ID: 2017632 - City Name: Priiskovyy is being processed
+322. City ID: 471501 - City Name: Vostochnyy is being processed
+323. City ID: 2189343 - City Name: Kaeo is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=vaitupu&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+324. City ID: 6538896 - City Name: Vasto is being processed
+325. City ID: 1259395 - City Name: Porbandar is being processed
+326. City ID: 5132029 - City Name: Port Washington is being processed
+327. City ID: 1502422 - City Name: Kosh-Agach is being processed
+328. City ID: 2122614 - City Name: Okha is being processed
+329. City ID: 1861416 - City Name: Ishigaki is being processed
+330. City ID: 2643557 - City Name: Loughton is being processed
+331. City ID: 3994469 - City Name: Ojinaga is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=guelengdeng&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+332. City ID: 3698304 - City Name: Chimbote is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=wulanhaote&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+333. City ID: 1809498 - City Name: Guilin is being processed
+334. City ID: 1254751 - City Name: Tendūkheda is being processed
+335. City ID: 1684606 - City Name: Taganak is being processed
+336. City ID: 3382226 - City Name: Camopi is being processed
+337. City ID: 2144528 - City Name: Warrnambool is being processed
+338. City ID: 1630639 - City Name: Pringsewu is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=umzimvubu&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=duz&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+339. City ID: 1067565 - City Name: Beloha is being processed
+340. City ID: 525426 - City Name: Sobolevo is being processed
+341. City ID: 5380437 - City Name: Pacific Grove is being processed
+342. City ID: 5431716 - City Name: Montrose is being processed
+343. City ID: 1254046 - City Name: Tura is being processed
+344. City ID: 3080047 - City Name: Żnin is being processed
+345. City ID: 2264923 - City Name: Peniche is being processed
+346. City ID: 1490256 - City Name: Talnakh is being processed
+347. City ID: 3201047 - City Name: Dubrovnik is being processed
+348. City ID: 2090021 - City Name: Namatanai is being processed
+349. City ID: 1788462 - City Name: Xinzhi is being processed
+350. City ID: 4513583 - City Name: Hamilton is being processed
+351. City ID: 583472 - City Name: Alakurtti is being processed
+352. City ID: 3374210 - City Name: São Filipe is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=jiroft&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+353. City ID: 1529484 - City Name: Kumul is being processed
+354. City ID: 3374083 - City Name: Bathsheba is being processed
+355. City ID: 2449066 - City Name: Tombouctou is being processed
+356. City ID: 3374462 - City Name: Mindelo is being processed
+357. City ID: 770380 - City Name: Jarosław is being processed
+358. City ID: 2447513 - City Name: Arlit is being processed
+359. City ID: 3461888 - City Name: Guarapari is being processed
+360. City ID: 2123979 - City Name: Kuril'sk is being processed
+361. City ID: 4154205 - City Name: Edgewater is being processed
+362. City ID: 928534 - City Name: Kasungu is being processed
+363. City ID: 3181526 - City Name: Province of Brindisi is being processed
+364. City ID: 2014927 - City Name: Tulun is being processed
+365. City ID: 3374333 - City Name: Praia is being processed
+366. City ID: 491685 - City Name: Smolenskaya is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=barentsburg&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+367. City ID: 1059507 - City Name: Marovoay is being processed
+368. City ID: 698346 - City Name: Orzhytsya is being processed
+369. City ID: 3515120 - City Name: Tres Picos is being processed
+370. City ID: 778707 - City Name: Mehamn is being processed
+371. City ID: 1337610 - City Name: Thinadhoo is being processed
+372. City ID: 5654391 - City Name: Glendive is being processed
+373. City ID: 5746545 - City Name: Portland is being processed
+374. City ID: 3373652 - City Name: Oistins is being processed
+375. City ID: 2618795 - City Name: Klaksvík is being processed
+376. City ID: 2059470 - City Name: Victor Harbor is being processed
+377. City ID: 7872142 - City Name: Garsten is being processed
+378. City ID: 3939168 - City Name: Huarmey is being processed
+379. City ID: 5850554 - City Name: Makakilo City is being processed
+380. City ID: 3717546 - City Name: Saint-Raphaël is being processed
+381. City ID: 1633419 - City Name: Padang is being processed
+382. City ID: 1631637 - City Name: Pemangkat is being processed
+383. City ID: 4791259 - City Name: Virginia Beach is being processed
+384. City ID: 2128025 - City Name: Shizunai-furukawachō is being processed
+385. City ID: 2027296 - City Name: Aykhal is being processed
+386. City ID: 544084 - City Name: Koslan is being processed
+387. City ID: 5546220 - City Name: Saint George is being processed
+388. City ID: 5392593 - City Name: San Ramon is being processed
+389. City ID: 3446295 - City Name: Torres is being processed
+390. City ID: 1267390 - City Name: Kavaratti is being processed
+391. City ID: 3404722 - City Name: Buriti Bravo is being processed
+392. City ID: 1626493 - City Name: Srandakan is being processed
+393. City ID: 2561668 - City Name: Agadir is being processed
+394. City ID: 1507390 - City Name: Dikson is being processed
+395. City ID: 2033225 - City Name: Zhalantun is being processed
+396. City ID: 6447156 - City Name: Port-de-Bouc is being processed
+397. City ID: 3522526 - City Name: Nuevo Progreso is being processed
+398. City ID: 3692073 - City Name: Santiago de Cao is being processed
+399. City ID: 6166739 - City Name: Timmins is being processed
+400. City ID: 696677 - City Name: Polohy is being processed
+401. City ID: 515175 - City Name: Oparino is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=vitimskiy&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+402. City ID: 1712961 - City Name: Gigmoto is being processed
+403. City ID: 2246901 - City Name: Oussouye is being processed
+404. City ID: 2156643 - City Name: Mount Gambier is being processed
+405. City ID: 6050066 - City Name: La Ronge is being processed
+406. City ID: 6167817 - City Name: Torbay is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=ruatoria&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+407. City ID: 3929611 - City Name: San Jerónimo is being processed
+408. City ID: 2828737 - City Name: Steinbach am Taunus is being processed
+409. City ID: 3406545 - City Name: Balsas is being processed
+410. City ID: 2037078 - City Name: Hailar is being processed
+411. City ID: 2027044 - City Name: Batagay is being processed
+412. City ID: 5866063 - City Name: Kenai is being processed
+413. City ID: 4781708 - City Name: Richmond is being processed
+414. City ID: 380348 - City Name: Abū Zabad is being processed
+415. City ID: 2016307 - City Name: Solnechnyy is being processed
+416. City ID: 3372472 - City Name: Vila Franca do Campo is being processed
+417. City ID: 543737 - City Name: Kotel'nich is being processed
+418. City ID: 2021370 - City Name: Kul'dur is being processed
+419. City ID: 3421193 - City Name: Paamiut is being processed
+420. City ID: 2120048 - City Name: Ust-Nera is being processed
+421. City ID: 2294915 - City Name: Takoradze is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=gurskoye&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+422. City ID: 3715111 - City Name: Agua Buena is being processed
+423. City ID: 5952330 - City Name: Ferme-Neuve is being processed
+424. City ID: 5301388 - City Name: Lake Havasu City is being processed
+425. City ID: 1502073 - City Name: Krasnosel'kup is being processed
+426. City ID: 3984997 - City Name: San Quintín is being processed
+427. City ID: 2112802 - City Name: Hasaki is being processed
+428. City ID: 3939761 - City Name: Hualmay is being processed
+429. City ID: 3842881 - City Name: Nueve de Julio is being processed
+430. City ID: 2192362 - City Name: Christchurch is being processed
+431. City ID: 4726521 - City Name: San Patricio is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=karauzyak&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+432. City ID: 1505187 - City Name: Kaa-Khem is being processed
+433. City ID: 3440777 - City Name: Rocha is being processed
+434. City ID: 1637001 - City Name: Luwuk is being processed
+435. City ID: 3517970 - City Name: Pochutla is being processed
+436. City ID: 371745 - City Name: Kutum is being processed
+437. City ID: 4676798 - City Name: Brownwood is being processed
+438. City ID: 2013279 - City Name: Vostok is being processed
+439. City ID: 1279227 - City Name: Ahmadpur is being processed
+440. City ID: 6071618 - City Name: Medicine Hat is being processed
+441. City ID: 4565346 - City Name: Hatillo is being processed
+442. City ID: 6355222 - City Name: Yulara is being processed
+443. City ID: 522945 - City Name: Neftegorsk is being processed
+444. City ID: 5354943 - City Name: Half Moon Bay is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=barawe&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+445. City ID: 2155562 - City Name: Nelson Bay is being processed
+446. City ID: 2027316 - City Name: Ayan is being processed
+447. City ID: 1710519 - City Name: Isabela is being processed
+448. City ID: 2014078 - City Name: Urusha is being processed
+449. City ID: 5847411 - City Name: Kahului is being processed
+450. City ID: 6539309 - City Name: Sinnai is being processed
+451. City ID: 5965546 - City Name: Gravenhurst is being processed
+452. City ID: 3703239 - City Name: Pedasí is being processed
+453. City ID: 1855342 - City Name: Nishihara is being processed
+454. City ID: 3855065 - City Name: General Roca is being processed
+455. City ID: 107304 - City Name: Buraidah is being processed
+456. City ID: 1005781 - City Name: Elliot is being processed
+457. City ID: 2377457 - City Name: Nouadhibou is being processed
+458. City ID: 3452711 - City Name: Porto Nacional is being processed
+459. City ID: 2022773 - City Name: Khandyga is being processed
+460. City ID: 1491267 - City Name: Sos'va is being processed
+461. City ID: 126409 - City Name: Kūhdasht is being processed
+462. City ID: 2027806 - City Name: Amazar is being processed
+463. City ID: 986717 - City Name: Kruisfontein is being processed
+464. City ID: 1630058 - City Name: Karaton is being processed
+465. City ID: 217570 - City Name: Buta is being processed
+466. City ID: 4032420 - City Name: Neiafu is being processed
+467. City ID: 1039536 - City Name: Maxixe is being processed
+468. City ID: 89113 - City Name: Ajdabiya is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=rawannawi&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+469. City ID: 214389 - City Name: Kaniama is being processed
+470. City ID: 3530617 - City Name: Cintalapa is being processed
+471. City ID: 4031742 - City Name: Egvekinot is being processed
+472. City ID: 3437056 - City Name: San Lorenzo is being processed
+473. City ID: 1486321 - City Name: Yar-Sale is being processed
+474. City ID: 3471896 - City Name: Aquidauana is being processed
+475. City ID: 2013465 - City Name: Verkhoyansk is being processed
+476. City ID: 1528998 - City Name: Yumen is being processed
+477. City ID: 1786538 - City Name: Yining is being processed
+478. City ID: 1899102 - City Name: Nagato is being processed
+479. City ID: 5251436 - City Name: Eau Claire is being processed
+480. City ID: 1680763 - City Name: Tumarbong is being processed
+481. City ID: 3571913 - City Name: Marsh Harbour is being processed
+482. City ID: 2027244 - City Name: Bagdarin is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=sofiysk&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+483. City ID: 130245 - City Name: Javānrūd is being processed
+484. City ID: 1849892 - City Name: Tottori-shi is being processed
+485. City ID: 1218436 - City Name: Saýat is being processed
+486. City ID: 2458334 - City Name: Douentza is being processed
+487. City ID: 2021041 - City Name: Kyra is being processed
+488. City ID: 3530103 - City Name: San Miguel de Cozumel is being processed
+489. City ID: 298033 - City Name: Viranşehir is being processed
+490. City ID: 3395458 - City Name: Maragogi is being processed
+491. City ID: 3572906 - City Name: Andros Town is being processed
+492. City ID: 2138555 - City Name: Poum is being processed
+493. City ID: 5333282 - City Name: Cameron Park is being processed
+494. City ID: 1813892 - City Name: Xincheng is being processed
+495. City ID: 962367 - City Name: Richards Bay is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=dianopolis&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+496. City ID: 2654970 - City Name: Brae is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=wahran&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+497. City ID: 1259994 - City Name: Payyanur is being processed
+498. City ID: 3577879 - City Name: Layou is being processed
+499. City ID: 2476396 - City Name: Timizart is being processed
+500. City ID: 6137749 - City Name: Sainte-Anne-des-Monts is being processed
+501. City ID: 1268271 - City Name: Kamalpur is being processed
+502. City ID: 777019 - City Name: Vardø is being processed
+503. City ID: 2082539 - City Name: Merauke is being processed
+504. City ID: 4033557 - City Name: Tautira is being processed
+505. City ID: 5905616 - City Name: Bonnyville is being processed
+506. City ID: 2314705 - City Name: Kikwit is being processed
+507. City ID: 3038789 - City Name: Abbeville is being processed
+508. City ID: 2063039 - City Name: Port Keats is being processed
+509. City ID: 554077 - City Name: Kalinovskaya is being processed
+510. City ID: 2159220 - City Name: Mackay is being processed
+511. City ID: 2122605 - City Name: Okhotsk is being processed
+512. City ID: 4231997 - City Name: Avera is being processed
+513. City ID: 2025256 - City Name: Chumikan is being processed
+514. City ID: 2209055 - City Name: Waddān is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=aflu&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+515. City ID: 1489853 - City Name: Tazovsky is being processed
+516. City ID: 162158 - City Name: Baharly is being processed
+517. City ID: 88533 - City Name: Awjilah is being processed
+518. City ID: 2037485 - City Name: Erenhot is being processed
+519. City ID: 1788852 - City Name: Xining is being processed
+520. City ID: 4954611 - City Name: Watertown is being processed
+521. City ID: 1805680 - City Name: Jingdezhen is being processed
+522. City ID: 4528923 - City Name: Zanesville is being processed
+523. City ID: 4677008 - City Name: Bryan is being processed
+524. City ID: 5131638 - City Name: Plainview is being processed
+525. City ID: 1485904 - City Name: Yermakovskoye is being processed
+526. City ID: 1611492 - City Name: Bua Yai is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=bacuit&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+527. City ID: 2141305 - City Name: Fayaoué is being processed
+528. City ID: 140463 - City Name: Birjand is being processed
+529. City ID: 3920244 - City Name: Chulumani is being processed
+530. City ID: 3694178 - City Name: Pacasmayo is being processed
+531. City ID: 3628423 - City Name: San Felipe is being processed
+532. City ID: 3899539 - City Name: Antofagasta is being processed
+533. City ID: 3438735 - City Name: Encarnación is being processed
+534. City ID: 3671437 - City Name: Caucayá is being processed
+535. City ID: 1337617 - City Name: Muli is being processed
+536. City ID: 1731248 - City Name: Alugan is being processed
+537. City ID: 780687 - City Name: Berlevåg is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=khonuu&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=azrow&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+538. City ID: 3870243 - City Name: Taltal is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=cam%20pha&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+539. City ID: 1179496 - City Name: Dullewala is being processed
+540. City ID: 1803367 - City Name: Linqing is being processed
+541. City ID: 3361934 - City Name: Saldanha is being processed
+542. City ID: 2033667 - City Name: Xinqing is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=samusu&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+543. City ID: 4033543 - City Name: Teahupoo is being processed
+544. City ID: 2680075 - City Name: Sandviken is being processed
+545. City ID: 1849592 - City Name: Tsuruga is being processed
+546. City ID: 1005768 - City Name: Ellisras is being processed
+547. City ID: 3468031 - City Name: Camaçari is being processed
+548. City ID: 368246 - City Name: Raja is being processed
+549. City ID: 323786 - City Name: Ankara is being processed
+550. City ID: 152497 - City Name: Muriti is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=kamenskoye&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+551. City ID: 921786 - City Name: Mitsamiouli is being processed
+552. City ID: 1806408 - City Name: Yangjiang is being processed
+553. City ID: 134602 - City Name: Fereydūnkenār is being processed
+404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=falealupo&units=imperial&appid=80c8f88ff83a74b3016978e9a6fcb63f
+554. City ID: 4297983 - City Name: Lexington is being processed
+555. City ID: 543508 - City Name: Kovdor is being processed
+556. City ID: 2638785 - City Name: St Helens is being processed
+557. City ID: 5044290 - City Name: Saint Anthony is being processed
+558. City ID: 152224 - City Name: Mwanza is being processed
+559. City ID: 2068110 - City Name: Kununurra is being processed
+560. City ID: 620391 - City Name: Vawkavysk is being processed
+561. City ID: 1795855 - City Name: Shaoxing is being processed
+562. City ID: 3395981 - City Name: Maceió is being processed
+563. City ID: 1627877 - City Name: Sembakung is being processed
+564. City ID: 515805 - City Name: Oktyabr'skoye is being processed
+565. City ID: 1082243 - City Name: Ambilobe is being processed
+566. City ID: 3664980 - City Name: Boa Vista is being processed
+567. City ID: 3141667 - City Name: Roald is being processed
+568. City ID: 2980080 - City Name: Saint-François is being processed
+569. City ID: 1512019 - City Name: Aksarka is being processed
+570. City ID: 2176639 - City Name: Batemans Bay is being processed
+571. City ID: 1279945 - City Name: Jiuquan is being processed
+572. City ID: 3416888 - City Name: Grindavik is being processed
+573. City ID: 1651591 - City Name: Amahai is being processed
+574. City ID: 1816751 - City Name: Beidao is being processed
+575. City ID: 707232 - City Name: Kalanchak is being processed
